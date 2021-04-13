@@ -1,0 +1,74 @@
+body {
+  background-color: black;
+  font-family: "Papyrus", monospace;
+  text-align: center;
+  margin: 0%;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #7b113a;
+  border-width: 3px;
+  width: 30%;
+}
+
+img {
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 450px;
+  width: 400px;
+}
+
+ul {
+  color: #810000;
+  font-size: x-large;
+}
+
+h1 {
+  color: #e0ece4;
+  font-size: x-large;
+}
+h2 {
+  color: #e0ece4;
+  font-size: x-large;
+}
+h3 {
+  color: #e0ece4;
+  font-size: x-large;
+}
+
+table {
+  color: #e0ece4;
+}
+table.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+p {
+  color: #e0ece4;
+}
+.head {
+  height: 500px;
+  width: auto;
+  background-image: url(images/tenor.gif);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+#h1 {
+  color: white;
+  font-size: 300%;
+  position: absolute;
+  left: 30%;
+  top: 60%;
+}
+#h2 {
+  color: white;
+  font-size: 250%;
+  position: absolute;
+  left: 40%;
+  top: 80%;
+}
