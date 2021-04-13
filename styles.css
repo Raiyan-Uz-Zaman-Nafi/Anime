@@ -61,10 +61,12 @@ p {
 #h1 {
   color: white;
   font-size: 300%;
-  
+  position: relative;
+  top: 280px;
 }
 #h2 {
   color: white;
   font-size: 250%;
-  
+  position: relative;
+  top: 300px;
 }
