@@ -90,7 +90,6 @@ p {
   position: relative;
   top: 300px;
 }
-
 .btn {
   background: #810000;
   background-image: -webkit-linear-gradient(top, #810000, #630000);
@@ -112,4 +111,3 @@ p {
   background: #810000;
   text-decoration: none;
 }
-
