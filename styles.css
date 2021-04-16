@@ -5,6 +5,25 @@ body {
   margin: 0%;
 }
 
+a:link {
+  color: #8ab6d6;
+}
+a:hover {
+  font-size: 3rem;
+}
+
+a:visited {
+  color: #903749;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
 hr {
   border-style: dotted none none;
   border-color: #7b113a;
@@ -55,7 +74,6 @@ p {
   background-image: url(images/tenor.gif);
   background-size: 100% 100%;
   background-repeat: no-repeat;
-  
 }
 
 #h1 {
