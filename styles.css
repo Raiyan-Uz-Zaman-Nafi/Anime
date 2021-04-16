@@ -90,3 +90,30 @@ p {
   position: relative;
   top: 300px;
 }
+
+.btn {
+  background: #810000;
+  background-image: -webkit-linear-gradient(top, #810000, #630000);
+  background-image: -moz-linear-gradient(top, #810000, #630000);
+  background-image: -ms-linear-gradient(top, #810000, #630000);
+  background-image: -o-linear-gradient(top, #810000, #630000);
+  background-image: linear-gradient(to bottom, #810000, #630000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #8ab6d6;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
